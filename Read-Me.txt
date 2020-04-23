@@ -1,0 +1,14 @@
+Read Me
+
+Main Features
+(1) Searching for cases based on Zip Code
+(2) Similar match logic based on City or State Name entered by User. In case, there are any close similar matches for user entered City or State, those information are returned to the user
+(3) User details and Conversations are persisted in Data Base and details are exposed via APIs
+(4) Mail is sent to user using the initial contact information shared which has the precautions in the body of the email along with an attachment
+(5) The mail also has “dynamic” state level case information (that is queried LIVE) – on Lex Bot 
+(6) Static map returned to user when queried for COVID cases about a specific location, zip code, City or State within India – On Dialog Flow Bot
+(7)User presented with link to dynamic “clustered” map that has details around cases across cities/states within India and across different countries in the world
+
+https://bot.dialogflow.com/9fb70160-1e5e-49fe-a992-79a7aa149719
+Telegram -  @MahidharCovidDialogFlow
+
