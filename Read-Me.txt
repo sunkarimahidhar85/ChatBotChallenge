@@ -12,3 +12,15 @@ Main Features
 https://bot.dialogflow.com/9fb70160-1e5e-49fe-a992-79a7aa149719
 Telegram -  @MahidharCovidDialogFlow
 
+Email functionality is enabled on Alex channels
+Clustered Map functionality is enabled on Dialog Flow channels
+Static map enabled on "non facebook messenger" channels on both bots
+
+Some phrases to check
+
+cases in Chennai
+Karnataka Deaths
+map state active
+map city all
+map world deaths
+530043 active
